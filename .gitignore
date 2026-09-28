@@ -1,0 +1,9 @@
+.DS_Store
+Thumbs.db
+
+# Engine / model packs (Drive or prepare output — never push)
+*.fpk
+*.xdb
+*.enc
+*.onnx
+*.db
