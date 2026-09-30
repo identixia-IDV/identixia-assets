@@ -1,6 +1,5 @@
 {
   "hash_to_canon": {
-    "bb2a79ed087cfbc0e6e1f74503b6f62fab9578990a1b57d6a7e1a70c9d7fe7c0": "screenshots/document-reader/desktop/demo-ui-result.png",
     "def48b902dcb9f0e68e7cbad516c5a8ea7a114147f094c05bf509168972bab8c": "screenshots/face-liveness/desktop/demo-ui.png",
     "d992d3e71928ff8ff6fcb9617ad23495db1415bbb3c7845f3ba85431f6eb24fa": "screenshots/face-liveness/mobile/liveness.png",
     "0a8a0a7ebbabdc313cfc6cecaa8a0410b52651dd785dc318acebc27550c90ad4": "screenshots/face-recognition/android/attribute.png",
@@ -25,7 +24,6 @@
     "2c8bfe8589d3917ec1380d2cc1112756e73697784364ee63cf673052424796f5": "screenshots/face-recognition/ios/home.png",
     "68ce057c7f790ce82a8cf2bd1ccfe83f9da34e198572290d78afc394da4debd6": "screenshots/face-recognition/ios/identify.jpg",
     "f0378bf5934c19f819bce4a06e0e9b9d6ec062506492293e9d44d17d9bf4f3d0": "screenshots/face-recognition/ios/settings.png",
-    "236a705f24a668473d9c36ecae699396bced34c489f0c68399c98e052b9f8c99": "screenshots/document-reader/docker/demo-ui-result.png",
     "c553541adccc0b91a8ab8dfaf567333ca44d299613f6d9007b51721c68054e78": "face-recognition/ios/about.png",
     "ad33fd50145a5a4120ea5e5d18ff0a1d65e1fd51725565ade3cf6ebfb094f2e4": "face-recognition/desktop/demo-ui-attribute.png",
     "e0606527f8352d7c7df5a449f23efcf296a8cd896a099dc08d06b3fc0a68e5fb": "face-recognition/desktop/demo-ui-quality.png",
@@ -44,19 +42,15 @@
     "f050f836d8286e7d73f7251f2148ea9f3f9c00d100fdf492e5384fa538574777": "face-liveness/mobile/liveness.png",
     "7cb8c03402c5f6c3c23ee3fba067a7974274e287979aca49c1827f4e410b1d25": "face-recognition/ios/settings.png",
     "5c7b5eb1fdfe62bfa8ae832ed2d1973b934840dff7ebc787b7f97db109082bcc": "face-recognition/flutter/camera.png",
-    "7f17fcf9faec2ea2062e52707087a67709e79528197b7f53441b5a89e04b7008": "face-recognition/flutter/result.png"
+    "7f17fcf9faec2ea2062e52707087a67709e79528197b7f53441b5a89e04b7008": "face-recognition/flutter/result.png",
+    "ff65031cbdcf535ca4d290ad51de38b3a0dc2cd880601b03db5eba724f59a41b": "screenshots/document-reader/desktop/demo-ui-status.png",
+    "6477837b95d39a7bec21c34497368e7d58f09cb60d0ae8759394f040a700fac9": "screenshots/document-reader/desktop/demo-ui-fields-code.png",
+    "69c84a18c8af994342587503efd59fe553b160766f9a4f15b67027ed9189eb1b": "screenshots/document-reader/desktop/demo-ui-fields-visual.png",
+    "5a9765009edd9d221aef4f522d0ca0f25883ea117ab0d606323cd48ad983ed5b": "screenshots/document-reader/desktop/demo-ui-images.png",
+    "2a22d6e92a098effb0cae6566d65a49a62a799311152188d77e3f899ecde2e10": "screenshots/document-reader/desktop/demo-ui-checks-validity.png",
+    "b5bc4848e54f522fa429c78c6c45eea0d7ad638d5e3bf9dc51b338707c26cad8": "screenshots/document-reader/desktop/demo-ui-checks-liveness.png"
   },
   "source_to_canon": {
-    "repositories/ID-Document-Recognition-Liveness-Detection-Docker/assets/screenshots/demo-ui-result.png": "screenshots/document-reader/desktop/demo-ui-result.png",
-    "repositories/ID-Document-Recognition-Liveness-Detection-Windows/assets/screenshots/demo-ui-result.png": "screenshots/document-reader/desktop/demo-ui-result.png",
-    "repositories/ID-Document-Recognition-Angular/assets/screenshots/demo-ui-result.png": "screenshots/document-reader/desktop/demo-ui-result.png",
-    "repositories/ID-Document-Recognition-CPP/assets/screenshots/demo-ui-result.png": "screenshots/document-reader/desktop/demo-ui-result.png",
-    "repositories/ID-Document-Recognition-Go/assets/screenshots/demo-ui-result.png": "screenshots/document-reader/desktop/demo-ui-result.png",
-    "repositories/ID-Document-Recognition-Node/assets/screenshots/demo-ui-result.png": "screenshots/document-reader/desktop/demo-ui-result.png",
-    "repositories/ID-Document-Recognition-Node-SDK/assets/screenshots/demo-ui-result.png": "screenshots/document-reader/desktop/demo-ui-result.png",
-    "repositories/ID-Document-Recognition-React/assets/screenshots/demo-ui-result.png": "screenshots/document-reader/desktop/demo-ui-result.png",
-    "repositories/ID-Document-Recognition-Vue/assets/screenshots/demo-ui-result.png": "screenshots/document-reader/desktop/demo-ui-result.png",
-    "hugging_face/DocumentReader-ZeroGPU-App/assets/screenshots/demo-ui-result.png": "screenshots/document-reader/desktop/demo-ui-result.png",
     "repositories/Face-Liveness-Detection-SDK/assets/screenshots/demo-ui.png": "screenshots/face-liveness/desktop/demo-ui.png",
     "repositories/FaceLivenessDetection-Docker/assets/screenshots/demo-ui.png": "screenshots/face-liveness/desktop/demo-ui.png",
     "repositories/FaceLivenessDetection-Windows/assets/screenshots/demo-ui.png": "screenshots/face-liveness/desktop/demo-ui.png",
@@ -134,20 +128,9 @@
     "repositories/FaceRecognition-LivenessDetection-iOS/assets/screenshots/capture.png": "screenshots/face-recognition/ios/capture.png",
     "repositories/FaceRecognition-LivenessDetection-iOS/assets/screenshots/home.png": "screenshots/face-recognition/ios/home.png",
     "repositories/FaceRecognition-LivenessDetection-iOS/assets/screenshots/identify.jpg": "screenshots/face-recognition/ios/identify.jpg",
-    "repositories/FaceRecognition-LivenessDetection-iOS/assets/screenshots/settings.png": "screenshots/face-recognition/ios/settings.png",
-    "scaffolds/DocumentReader-Docker/assets/screenshots/demo-ui-result.png": "screenshots/document-reader/docker/demo-ui-result.png"
+    "repositories/FaceRecognition-LivenessDetection-iOS/assets/screenshots/settings.png": "screenshots/face-recognition/ios/settings.png"
   },
   "repo_file_to_canon": {
-    "repositories/ID-Document-Recognition-Liveness-Detection-Docker|demo-ui-result.png": "screenshots/document-reader/desktop/demo-ui-result.png",
-    "repositories/ID-Document-Recognition-Liveness-Detection-Windows|demo-ui-result.png": "screenshots/document-reader/desktop/demo-ui-result.png",
-    "repositories/ID-Document-Recognition-Angular|demo-ui-result.png": "screenshots/document-reader/desktop/demo-ui-result.png",
-    "repositories/ID-Document-Recognition-CPP|demo-ui-result.png": "screenshots/document-reader/desktop/demo-ui-result.png",
-    "repositories/ID-Document-Recognition-Go|demo-ui-result.png": "screenshots/document-reader/desktop/demo-ui-result.png",
-    "repositories/ID-Document-Recognition-Node|demo-ui-result.png": "screenshots/document-reader/desktop/demo-ui-result.png",
-    "repositories/ID-Document-Recognition-Node-SDK|demo-ui-result.png": "screenshots/document-reader/desktop/demo-ui-result.png",
-    "repositories/ID-Document-Recognition-React|demo-ui-result.png": "screenshots/document-reader/desktop/demo-ui-result.png",
-    "repositories/ID-Document-Recognition-Vue|demo-ui-result.png": "screenshots/document-reader/desktop/demo-ui-result.png",
-    "hugging_face/DocumentReader-ZeroGPU-App|demo-ui-result.png": "screenshots/document-reader/desktop/demo-ui-result.png",
     "repositories/Face-Liveness-Detection-SDK|demo-ui.png": "screenshots/face-liveness/desktop/demo-ui.png",
     "repositories/FaceLivenessDetection-Docker|demo-ui.png": "screenshots/face-liveness/desktop/demo-ui.png",
     "repositories/FaceLivenessDetection-Windows|demo-ui.png": "screenshots/face-liveness/desktop/demo-ui.png",
@@ -225,37 +208,9 @@
     "repositories/FaceRecognition-LivenessDetection-iOS|capture.png": "screenshots/face-recognition/ios/capture.png",
     "repositories/FaceRecognition-LivenessDetection-iOS|home.png": "screenshots/face-recognition/ios/home.png",
     "repositories/FaceRecognition-LivenessDetection-iOS|identify.jpg": "screenshots/face-recognition/ios/identify.jpg",
-    "repositories/FaceRecognition-LivenessDetection-iOS|settings.png": "screenshots/face-recognition/ios/settings.png",
-    "scaffolds/DocumentReader-Docker|demo-ui-result.png": "screenshots/document-reader/docker/demo-ui-result.png"
+    "repositories/FaceRecognition-LivenessDetection-iOS|settings.png": "screenshots/face-recognition/ios/settings.png"
   },
   "files": [
-    {
-      "sha256": "bb2a79ed087cfbc0e6e1f74503b6f62fab9578990a1b57d6a7e1a70c9d7fe7c0",
-      "path": "screenshots/document-reader/desktop/demo-ui-result.png",
-      "bytes": 121863,
-      "consumers": [
-        "hugging_face/DocumentReader-ZeroGPU-App",
-        "repositories/ID-Document-Recognition-Liveness-Detection-Docker",
-        "repositories/ID-Document-Recognition-Liveness-Detection-Windows",
-        "repositories/ID-Document-Recognition-Angular",
-        "repositories/ID-Document-Recognition-CPP",
-        "repositories/ID-Document-Recognition-Go",
-        "repositories/ID-Document-Recognition-Node",
-        "repositories/ID-Document-Recognition-Node-SDK",
-        "repositories/ID-Document-Recognition-React",
-        "repositories/ID-Document-Recognition-Vue"
-      ],
-      "source": "repositories/ID-Document-Recognition-Liveness-Detection-Docker/assets/screenshots/demo-ui-result.png"
-    },
-    {
-      "sha256": "236a705f24a668473d9c36ecae699396bced34c489f0c68399c98e052b9f8c99",
-      "path": "screenshots/document-reader/docker/demo-ui-result.png",
-      "bytes": 307256,
-      "consumers": [
-        "scaffolds/DocumentReader-Docker"
-      ],
-      "source": "scaffolds/DocumentReader-Docker/assets/screenshots/demo-ui-result.png"
-    },
     {
       "sha256": "def48b902dcb9f0e68e7cbad516c5a8ea7a114147f094c05bf509168972bab8c",
       "path": "screenshots/face-liveness/desktop/demo-ui.png",
@@ -525,6 +480,57 @@
         "repositories/FaceRecognition-LivenessDetection-iOS"
       ],
       "source": "repositories/FaceRecognition-LivenessDetection-iOS/assets/screenshots/settings.png"
+    },
+    {
+      "sha256": "ff65031cbdcf535ca4d290ad51de38b3a0dc2cd880601b03db5eba724f59a41b",
+      "path": "screenshots/document-reader/desktop/demo-ui-status.png",
+      "bytes": 22183,
+      "consumers": [],
+      "source": null
+    },
+    {
+      "sha256": "6477837b95d39a7bec21c34497368e7d58f09cb60d0ae8759394f040a700fac9",
+      "path": "screenshots/document-reader/desktop/demo-ui-fields-code.png",
+      "bytes": 64478,
+      "consumers": [],
+      "source": null
+    },
+    {
+      "sha256": "69c84a18c8af994342587503efd59fe553b160766f9a4f15b67027ed9189eb1b",
+      "path": "screenshots/document-reader/desktop/demo-ui-fields-visual.png",
+      "bytes": 72598,
+      "consumers": [],
+      "source": null
+    },
+    {
+      "sha256": "5a9765009edd9d221aef4f522d0ca0f25883ea117ab0d606323cd48ad983ed5b",
+      "path": "screenshots/document-reader/desktop/demo-ui-images.png",
+      "bytes": 235498,
+      "consumers": [],
+      "source": null
+    },
+    {
+      "sha256": "2a22d6e92a098effb0cae6566d65a49a62a799311152188d77e3f899ecde2e10",
+      "path": "screenshots/document-reader/desktop/demo-ui-checks-validity.png",
+      "bytes": 27265,
+      "consumers": [],
+      "source": null
+    },
+    {
+      "sha256": "b5bc4848e54f522fa429c78c6c45eea0d7ad638d5e3bf9dc51b338707c26cad8",
+      "path": "screenshots/document-reader/desktop/demo-ui-checks-liveness.png",
+      "bytes": 20042,
+      "consumers": [],
+      "source": null
     }
-  ]
+  ],
+  "by_hash": {
+    "ff65031cbdcf535ca4d290ad51de38b3a0dc2cd880601b03db5eba724f59a41b": "screenshots/document-reader/desktop/demo-ui-status.png",
+    "6477837b95d39a7bec21c34497368e7d58f09cb60d0ae8759394f040a700fac9": "screenshots/document-reader/desktop/demo-ui-fields-code.png",
+    "69c84a18c8af994342587503efd59fe553b160766f9a4f15b67027ed9189eb1b": "screenshots/document-reader/desktop/demo-ui-fields-visual.png",
+    "5a9765009edd9d221aef4f522d0ca0f25883ea117ab0d606323cd48ad983ed5b": "screenshots/document-reader/desktop/demo-ui-images.png",
+    "2a22d6e92a098effb0cae6566d65a49a62a799311152188d77e3f899ecde2e10": "screenshots/document-reader/desktop/demo-ui-checks-validity.png",
+    "b5bc4848e54f522fa429c78c6c45eea0d7ad638d5e3bf9dc51b338707c26cad8": "screenshots/document-reader/desktop/demo-ui-checks-liveness.png"
+  },
+  "alias_to_canon": {}
 }

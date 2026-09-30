@@ -4,8 +4,12 @@ Unique blobs copied into this repository. Same filename in different folders mea
 
 | Path | SHA-256 (12) | Bytes | Consumers |
 | --- | --- | --- | --- |
-| `screenshots/document-reader/desktop/demo-ui-result.png` | `898b34907c49` | 196482 | `hugging_face/DocumentReader-ZeroGPU-App`, `repositories/ID-Document-Recognition-Liveness-Detection-Docker`, `repositories/ID-Document-Recognition-Liveness-Detection-Windows`, `repositories/ID-Document-Recognition-Angular`, `repositories/ID-Document-Recognition-CPP`, `repositories/ID-Document-Recognition-Go`, `repositories/ID-Document-Recognition-Node`, `repositories/ID-Document-Recognition-Node-SDK`, `repositories/ID-Document-Recognition-React`, `repositories/ID-Document-Recognition-Vue` |
-| `screenshots/document-reader/docker/demo-ui-result.png` | `898b34907c49` | 196482 | `scaffolds/DocumentReader-Docker` |
+| `screenshots/document-reader/desktop/demo-ui-status.png` | `ff65031cbdcf` | 22183 | GitHub raw (product READMEs) |
+| `screenshots/document-reader/desktop/demo-ui-fields-code.png` | `6477837b95d3` | 64478 | GitHub raw (product READMEs) |
+| `screenshots/document-reader/desktop/demo-ui-fields-visual.png` | `69c84a18c8af` | 72598 | GitHub raw (product READMEs) |
+| `screenshots/document-reader/desktop/demo-ui-images.png` | `5a9765009edd` | 235498 | GitHub raw (product READMEs) |
+| `screenshots/document-reader/desktop/demo-ui-checks-validity.png` | `2a22d6e92a09` | 27265 | GitHub raw (product READMEs) |
+| `screenshots/document-reader/desktop/demo-ui-checks-liveness.png` | `b5bc4848e54f` | 20042 | GitHub raw (product READMEs) |
 | `screenshots/face-liveness/desktop/demo-ui.png` | `932fab555340` | 139088 | `repositories/Face-Liveness-Detection-SDK`, `repositories/FaceLivenessDetection-Docker`, `repositories/FaceLivenessDetection-Windows` |
 | `screenshots/face-liveness/mobile/liveness.png` | `f050f836d828` | 140411 | `repositories/Face-Liveness-Detection-SDK`, `repositories/FaceLivenessDetection-Android`, `repositories/FaceLivenessDetection-iOS` |
 | `screenshots/face-recognition/android/about.png` | `c553541adccc` | 248354 | `clients/FaceRecognition-Android-App-NoAttribute`, `repositories/FaceRecognition-LivenessDetection-Flutter`, `repositories/FaceRecognition-LivenessDetection-Ionic-Capacitor`, `repositories/FaceRecognition-LivenessDetection-Ionic-Cordova`, `repositories/FaceRecognition-LivenessDetection-React-Native`, `repositories/FaceRecognition-LivenessDetection-Android` |
