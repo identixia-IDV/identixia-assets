@@ -17,7 +17,7 @@ Wordmark and mark. Colors are unchanged; only size changes when an app needs ano
 
 
 ```html
-<img alt="Identixia" src="https://raw.githubusercontent.com/identixiaAI/identixia-assets/main/brand/logo.png" width="320"/>
+<img alt="Identixia" src="https://raw.githubusercontent.com/identixia-IDV/identixia-assets/main/brand/logo.png" width="320"/>
 ```
 
 
@@ -36,7 +36,7 @@ Example pictures (`assets/examples/` in each product repo) are **not** stored he
 
 
 ```html
-<img src="https://raw.githubusercontent.com/identixiaAI/identixia-assets/main/screenshots/face-recognition/android/home.png" alt="Home" width="240"/>
+<img src="https://raw.githubusercontent.com/identixia-IDV/identixia-assets/main/screenshots/face-recognition/android/home.png" alt="Home" width="240"/>
 ```
 
 
